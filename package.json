@@ -10,7 +10,8 @@
     "url": "https://github.com/UNOMP/node-multi-hashing.git"
   },
   "dependencies": {
-    "bindings": "*"
+    "bindings": "*",
+    "nan": "^2.0.0"
   },
   "keywords": [
     "scrypt",
